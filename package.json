@@ -1,0 +1,31 @@
+{
+  "name": "sit725_prac3",
+  "version": "1.0.0",
+  "description": "sit 725 week 3 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git"
+    "url": "https://github.com/kakaluqman/SIT725-2024-t2-prac3"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Luqman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakaluqman/SIT725-2024-t2-prac3/issues"
+  },
+  "homepage": "https://github.com/kakaluqman/SIT725-2024-t2-prac3/blob/main/README.md",
+
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
